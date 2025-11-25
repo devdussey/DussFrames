@@ -1,0 +1,16 @@
+## Interface: 100005
+## Title: Duss Frames
+## Author: YourName
+## Version: 1.0
+## Description: Custom Player and Target frames
+## SavedVariables: DussFramesSavedVars
+
+Core.lua
+Config.lua
+Logger.lua
+Persistence.lua
+FrameUtils.lua
+PlayerFrame.lua
+TargetFrame.lua
+Updates.lua
+Options.lua
